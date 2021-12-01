@@ -1,3 +1,3 @@
-# deezert
+# dessert
 
-Where music lives on the command line
+Sweet CLI for Deezer
